@@ -1,1 +1,51 @@
-{"versions": []}
+{
+    "versions":  [
+                     {
+                         "version":  "0.1.0",
+                         "title":  "First Sprout",
+                         "date":  "2026-10-30",
+                         "size":  "First release",
+                         "summary":  "Grow strawberries, radishes and cherry trees from single seeds, through real seasons, weather and garden chores.",
+                         "intro":  "Welcome to the garden. Shake a seed out of its paper packet, press it into soil you can push around with your hand, water it, and watch what happens above and below the ground. Everything you see and hear is made by the game as you play, and your garden keeps growing on a real calendar, from April blossom to December snow.",
+                         "picture":  "https://raw.githubusercontent.com/ChocolateWafer1/seedling-releases/main/pictures/first-sprout.jpg",
+                         "download":  "https://github.com/ChocolateWafer1/seedling-releases/releases/download/v0.1.0/Seedling-0.1.0-win.zip",
+                         "bytes":  1943051,
+                         "sha256":  "8a59607bd7a43c1a43f59f21c37be1378bf6a90c915c500bc41b054d8f99c907",
+                         "sections":  [
+                                          {
+                                              "title":  "Grow",
+                                              "items":  [
+                                                            "Strawberries|Roots, leaves, flowers and glossy red berries, all growing smoothly with no sudden jumps.",
+                                                            "Cherry trees|Slow to start and big when grown, blooming every April once they are old enough.",
+                                                            "Radishes|A quick crop, ready in about three garden days. Pull one up and sell it.",
+                                                            "Soil you can touch|Push the ground around, bury seeds with your hand, and scroll down to watch the roots."
+                                                        ]
+                                          },
+                                          {
+                                              "title":  "The year",
+                                              "items":  [
+                                                            "A real calendar|A new garden starts on April 1st, and you can speed time up to 256 times.",
+                                                            "Seasons|Spring showers, hot summers, red autumn leaves, and winter snow that melts into the ground.",
+                                                            "Weather|Rain waters the garden for you. Lightning can set a plant on fire, so keep the watering can close."
+                                                        ]
+                                          },
+                                          {
+                                              "title":  "Garden life",
+                                              "items":  [
+                                                            "Chores|Weeds, birds, slugs and aphids come along now and then, never more than once every five to ten minutes, and they never kill a plant.",
+                                                            "Helpers|Bees make heavier berries, and ladybugs eat the aphids.",
+                                                            "The shop|Sell what you grow, then buy sprinklers, fertilizer, a lightning rod, a bird net and more."
+                                                        ]
+                                          },
+                                          {
+                                              "title":  "Your way",
+                                              "items":  [
+                                                            "Five difficulties|From Easy to Hardcore, which takes as long as real plants do, plus Sandbox with endless coins.",
+                                                            "Six gardens|Each save slot keeps a picture, its name, the date and your coins.",
+                                                            "Always safe|Your gardens live outside the game\u0027s folder, so updates and removing a version never touch them."
+                                                        ]
+                                          }
+                                      ]
+                     }
+                 ]
+}
